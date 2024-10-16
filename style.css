@@ -1,0 +1,92 @@
+h1{
+font-size: 70px;
+color:#e4218c;
+font-weight: "Oleo Script", system-ui;
+text-align: center;
+}
+h3
+{
+  color: rgb(8, 8, 8);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  font-weight: 14px;
+  text-align: center;
+}
+
+h3
+{
+  color: rgb(8, 8, 8);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  font-weight: 14px;
+  text-align: center;
+}
+h4
+{
+  color: rgb(8, 8, 8);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  font-weight: 14px;
+  text-align: center;
+}
+h5
+{
+  color: rgb(8, 8, 8);
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  font-weight: 14px;
+  text-align: left;
+}
+.vermelho{
+  background-color: rgb(226, 43, 43);
+  border:1px solid black;
+}
+.azul{
+  background-color: rgb(43, 162, 226);
+  border:1px solid black;
+}
+
+.verdeágua{
+  background-color: rgb(31, 230, 180);
+  border:1px solid black;
+}
+.amarelo{
+  background-color: rgb(226, 223, 43);
+  border:1px solid black;
+}
+.verdeoliva{
+  background-color: rgb(18, 99, 18);
+  border:1px solid black;
+}
+.laranja{
+  background-color: rgb(241, 134, 10);
+  border:1px solid black;
+}
+.pink{
+  background-color: rgb(236, 9, 134);
+  border:1px solid black;
+}
+.roxo{
+  background-color: rgb(75, 6, 75);
+  border:1px solid black;
+}
+.lilás{
+  background-color: rgb(233, 166, 241);
+  border:1px solid black;
+}
+.verde{
+  background-color: rgb(95, 226, 43);
+  border:1px solid black;
+}
+.cinza{
+  background-color: rgb(141, 139, 141);
+  border:1px solid black;
+}
+p{
+  color: blue;
+  text-align: right;
+}
+a{
+ color: rgb(3, 0, 3);
+ background-color:rgb(201, 53, 127);
+}
